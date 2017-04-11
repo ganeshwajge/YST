@@ -6012,3 +6012,7 @@ body > * {
   background-size: cover;
   background-repeat: none;
   background-position: center; }
+
+#logo {
+  width: 100px;
+  height: 100px; }
